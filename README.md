@@ -206,16 +206,16 @@ joblib
 
 ---
 
-### ✅ **Recommended Repo Folder Structure for You**
+### ✅ **Folder Structure**
 
 ```
 Flight_Delay_Prediction_Using_Machine_Learning/
 │
 ├── data/
-│   └── flights_2019.csv               # your Kaggle dataset file
+│   └── flight_delay_dataset.csv               # Kaggle dataset file
 │
 ├── notebooks/
-│   └── Flight_Delay_Prediction.ipynb  # notebook we built
+│   └── Flight_Delay_Prediction.ipynb  # notebook 
 │
 ├── model/
 │   └── flight_delay_model.pkl
@@ -225,7 +225,6 @@ Flight_Delay_Prediction_Using_Machine_Learning/
 │   ├── feature_importance.png
 │   └── confusion_matrix.png
 │
-├── requirements.txt
 └── README.md
 ```
 
