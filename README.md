@@ -180,28 +180,4 @@ If you find this project useful:
 ```
 
 
----
-
-### ✅ **Folder Structure**
-
-```
-Flight_Delay_Prediction_Using_Machine_Learning/
-│
-├── data/
-│   └── flight_delay_dataset.csv               # Kaggle dataset file
-│
-├── notebooks/
-│   └── Flight_Delay_Prediction.ipynb  # notebook 
-│
-├── model/
-│   └── flight_delay_model.pkl
-│
-├── images/
-│   ├── delay_distribution.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
-│
-└── README.md
-```
-
 
