@@ -156,15 +156,6 @@ Flight_Delay_Prediction_Using_Machine_Learning/
 
 ---
 
-## 🧠 Future Enhancements
-
-- Integrate **real-time weather API** for external delay factors.  
-- Deploy interactive **Streamlit dashboard** for delay prediction.  
-- Use **Apache Spark / Dask** for large-scale data optimization.  
-- Add **SHAP explainability plots** for interpretability.  
-
----
-
 ## 🧑‍💻 Author
 
 **👋 Avinash Kamble**  
@@ -188,21 +179,6 @@ If you find this project useful:
 > — *Avinash Kamble*
 ```
 
----
-
-### **🧩 requirements.txt**
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-lightgbm
-shap
-joblib
-```
 
 ---
 
